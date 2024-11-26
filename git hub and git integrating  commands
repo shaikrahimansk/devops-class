@@ -1,0 +1,9 @@
+cd   --- change directory
+pwd  --- present working directory
+cd.. --- command used to display content of file
+rm   --- remove file
+rm dir --- remove directory
+git branch
+git switch feature
+git status
+git commit -m""
