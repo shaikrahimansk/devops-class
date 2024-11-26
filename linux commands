@@ -1,0 +1,7 @@
+ls       ---   list the file 
+ls-la    ---   show the hidden file
+touch    ---   to create files
+clear    ---   to clear the screen
+history  ---   to check out all the command which are been used
+mkdir    ---  make directory which creates a folder with gives name
+cd       ---  change directory
