@@ -1,0 +1,62 @@
+1. what is linux?
+    linux is an open source operating system modeled on unix developed by c.
+
+  
+2. what is open source?
+  * freely available
+  * free software movement was started in 1983 and 1998
+  * open source projects are generally a collaborative effort by multiple set of developers
+  * the owner may pur restrictions on usuage, modification and distribution by various licensing
+
+ 3.  architecture of linux os?
+
+              application -------> shell ---------> kernel -------> hardware
+
+  4. components of a linux os?
+    * init program
+    * bootloader
+    * software libraries
+    * package management system
+    * other interface and application
+
+  5. where linux is used?
+    * servers
+    * supercomputers
+    * gaming and visual effect servers
+    * embedded systems
+    * android
+    * nasa
+
+  6. features of linux?
+     * reilable
+     * licensing freedom
+     * customized
+     * enhancement
+     * secure
+     * monitor cost
+     * open source
+     * huge base
+
+  7. what is kernel?
+   kernal is the interface between the application and hardware level
+  task performed by the kernel
+  * resource allocation
+  * security management
+  * process management
+  * memory management
+  * device management
+  * scheduling
+  
+  8. what is shell?
+  the shell is interface which takes user- command send it to the kernel
+     application -------> shell ---------> kernel -------> hardware
+  9. how shell works?
+   the comman d to be executed or shell script ---------> linux shell --------> converted to binary by shell -------> sent to linux kernel
+
+  what is linux distribution?
+  ubuntu
+  debian
+  redhat linux
+  fedora
+  centos
+  
