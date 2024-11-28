@@ -1,0 +1,102 @@
+1. what is ubuntu?
+  * most popular linux distro
+  * secure and reliable
+  * multi-variant releases, example desktop, server
+  * frequent releases
+  * easy to use
+  * hrdp - it uses in user friendly desktop mode 
+  * it contains a wide range of software like libre office, thunderbird, etc
+2. what is fedora?
+    * latest technology having huge support base
+    * new releases frequently
+    * easily customizable
+    * can upgrade versions without reinstalling
+    * stable and reliable
+    * easy to use
+
+  3. what is file in linux?
+    * you do not need a command to check the cpu info, but can print the file
+                      /proc/cpuinfo
+                      like a simple plain text file
+    there are some special files that represent hardware devices, system information etc.
+    * the /proc filesystem in linux gives detail a but the kernel's run-time operations in form of plain text files
+
+    4. types of file in linux?
+    *  -   normal files
+    *  d   normal directory
+    *  |   symbolic link(shorcut to a file/ directory )
+    *  S  socket (pass the data between two processes}
+    *  p  pipe (it is similar to socket, but users can not work it directly)
+    *  c  process character hardware communication
+
+  5. what is demo-files types?
+    check the first letter which is describing the file type
+
+  6. what is run level in linux?
+      0 ----> halt the system
+      1 ----> single useer mode
+      2 ----> multiple user mode with no network file system
+      3 ----> multiple user mode in cli, but no gui
+      4 ----> user definable
+      5 ----> multiple user mode in gui
+      6 ----> reboot
+
+  * the init figures out the default run level to start the associated script with respect to the configured run level
+  * you can manually change the run level using the telinit command and superuse has permission to modify the run-level(super user = admin user = node user)
+  * it is an opertional level which describes the curren state of the system with respect to the services available 
+  * it is a single digit integer that defines the state of the system.
+
+  7. what is pipe?
+   * pipe represented as "|" is used to direct the output of one command to another 
+   * it creates an internal connection betweemn two or more commands
+   * the pipe is unidirectional and flows from left to right
+   * pipe along with grep is most commonly used
+
+                                      TASK QUESTION:
+      1. what is APT and where is using the APT?
+                  * APT (Advanced Packaging Tool) is a free, command-line tool that manages software packages on Linux systems, particularly Debian and Ubuntu
+                  * APT works with core libraries to handle software packages
+
+      2.what is yum in linux?
+                  * YUM, or Yellowdog Updater Modified, is a free, open-source command-line tool for managing packages in Linux.
+                  * It's a front-end for the RPM package manager, which means it manages packages in the .rpm file format. 
+     3. Which Linux uses yum?
+               * YUM is a package manager for RPM-based Linux distributions such as Fedora, CentOS and Red Hat Enterprise Linux. 
+               * It allows users to install, update, remove and search for software packages from various repositories.
+
+      4. different between  shut on vs reboot vs restart vs start?
+                  "Shut on" is not a common term, but generally, "shut down" means completely turning off a computer, 
+                  while "reboot," "restart," and "start" all refer to turning a computer on,
+                  with "reboot" and "restart" implying that you are turning it off and then back on again to refresh the system,
+                  essentially restarting the operating system, whereas "start" simply means powering on from a completely off state. 
+             Key differences:
+                 *  Shut down: Fully powers off the computer, disconnecting it from electricity. 
+                 *  Reboot/Restart: Turns the computer off and then immediately back on again, essentially resetting the operating system. 
+                 *  Start: Simply turns on a computer that is completely off. 
+
+      5.  different between file and file.txt?
+              here are two types of data files: one is “text files”, which contain readable characters and can be opened with any text editor,   
+              second is “binary files”, which contain non-readable characters and require specific programs for access.
+   
+
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  \
+                  
