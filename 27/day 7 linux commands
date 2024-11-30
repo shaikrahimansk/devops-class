@@ -1,0 +1,39 @@
+ LINUX COMMANDS:  
+
+1 . mkdir [directory_name]       PURPOSE:  Create a new directory 
+  
+2.  touch [file_name]            PURPOSE:  Create a new file.
+
+3.  cat [file_name]              PURPOSE:  Show the contents of a file.
+
+4.  clear                        PURPOSE:  Clear the terminal screen.
+
+5.  ls                           PURPOSE:   List files and directories in the current directory.
+  
+6.  ls -a                        PURPOSE:   List all files and directories  in the current directory (shows hidden files).
+ 
+7.  ls -l                        PURPOSE:   List files and directories in long format.
+  
+8.  pwd                          PURPOSE:   Show the directory you are currently working in.  
+ 
+9.  cd ~                         PURPOSE:  Change directory to $HOME Move up one directory level.
+ 
+10.  cd ..                       PURPOSE:  Change to the previous directory.
+ 
+11.  cd [directory_path]         PURPOSE:  Change location to a specified directory.
+
+12.  mk dir -p filename          PURPOSE:  Create a file inside the file.
+     
+13.  vi [file_name]              PURPOSE:  Open or create a file using the Vi/Vim text editor.
+     vim [file_name]  
+
+14.    i ----  insert
+
+         esc then shift + colon (:)
+
+         if to save the data use letter w
+
+         if to quit, after saving letter q
+
+         if to save and quit
+     
